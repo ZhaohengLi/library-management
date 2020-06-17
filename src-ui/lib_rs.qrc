@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="bookshelf">image/icon1.png</file>
+        <file>image/icon2.png</file>
+        <file alias="library">image/icon3.png</file>
+        <file>image/icon4.png</file>
+        <file alias="profile">image/icon5.png</file>
+        <file>image/icons8-settings-filled-50.png</file>
+        <file>image/icons8-settings-filled-500.png</file>
+        <file>image/international41.png</file>
+        <file>image/logo.png</file>
+        <file>image/search_icon.png</file>
+        <file>image/settings38.png</file>
+        <file alias="manager">image/user84.png</file>
+        <file alias="del1">image/icons8-close-window-50.png</file>
+        <file alias="del2">image/icons8-close-window-filled-50.png</file>
+        <file alias="edit1">image/icons8-compose-50.png</file>
+        <file alias="edit2">image/icons8-compose-filled-50.png</file>
+        <file alias="search1">image/icons8-google-web-search-50.png</file>
+        <file alias="search2">image/icons8-google-web-search-filled-50.png</file>
+        <file alias="add1">image/icons8-plus-50.png</file>
+        <file alias="add2">image/icons8-plus-filled-50.png</file>
+        <file alias="ref1">image/icons8-cancel-50.png</file>
+        <file alias="ref2">image/icons8-cancel-filled-50.png</file>
+        <file alias="agr1">image/icons8-checked-50.png</file>
+        <file alias="agr2">image/icons8-checked-filled-50.png</file>
+        <file alias="borrow1">image/icons8-borrow-book-50.png</file>
+        <file alias="borrow2">image/icons8-borrow-book-filled-50.png</file>
+        <file alias="collect1">image/icons8-christmas-star-50.png</file>
+        <file alias="collect2">image/icons8-christmas-star-filled-50.png</file>
+        <file alias="detail1">image/icons8-view-details-50.png</file>
+        <file alias="detail2">image/icons8-view-details-filled-50.png</file>
+        <file alias="returnReq1">image/icons8-left-2-50.png</file>
+        <file alias="returnReq2">image/icons8-left-2-filled-50.png</file>
+    </qresource>
+</RCC>
